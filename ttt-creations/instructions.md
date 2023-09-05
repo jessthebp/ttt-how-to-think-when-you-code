@@ -5,7 +5,7 @@
 
 ## 2: "Fork" this repository
 
-## 3: Make your changes
+## 3: Make your changes on a new branch
 
 ## 4: Create a "pull request"
 
